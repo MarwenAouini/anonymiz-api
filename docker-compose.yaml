@@ -1,7 +1,7 @@
 version: "3"
 
 services:
-  Premier-api:
+  premier-api:
     build: .
     ports:
       - 8000:8000
